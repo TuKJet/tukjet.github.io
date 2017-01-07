@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TuKJet' Blog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2017-01-05T10:20:00+08:00</updated><entry><title>2017-1-5-Blog 测试</title><link href="/2017-1-5-blog-ce-shi.html" rel="alternate"></link><published>2017-01-05T10:20:00+08:00</published><updated>2017-01-05T10:20:00+08:00</updated><author><name>TuKJet</name></author><id>tag:None,2017-01-05:/2017-1-5-blog-ce-shi.html</id><summary type="html">&lt;h1&gt;哈哈哈&lt;/h1&gt;
+&lt;h2&gt;测试中&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://tukjet.github.io"&gt;&lt;img alt="图片测试" src="./images/b2.jpg" title="b2.jpg"&gt;&lt;/a&gt;
+&lt;a href="http://tukjet.github.io"&gt;我的博客地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎!!!!!!!!!&lt;/p&gt;</summary><content type="html">&lt;h1&gt;哈哈哈&lt;/h1&gt;
+&lt;h2&gt;测试中&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://tukjet.github.io"&gt;&lt;img alt="图片测试" src="./images/b2.jpg" title="b2.jpg"&gt;&lt;/a&gt;
+&lt;a href="http://tukjet.github.io"&gt;我的博客地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎!!!!!!!!!&lt;/p&gt;</content><category term="计算机视觉"></category><category term="模板"></category></entry></feed>
